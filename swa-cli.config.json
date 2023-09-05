@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "basic01": {
+      "appLocation": ".",
+      "outputLocation": ".",
+      "appName": "vanilla-basic2",
+      "resourceGroup": "vanilla-basic2-rg"
+    }
+  }
+}
