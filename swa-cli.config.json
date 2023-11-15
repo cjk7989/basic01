@@ -3,6 +3,7 @@
   "configurations": {
     "basic01": {
       "appLocation": ".",
+      "apiLocation": "api",
       "outputLocation": ".",
       "appName": "vanilla-basic2",
       "resourceGroup": "vanilla-basic2-rg"
